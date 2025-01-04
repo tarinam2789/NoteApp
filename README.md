@@ -18,6 +18,7 @@ Delete Notes: You can delete any note at any time.
 To get started, clone this repository to your local machine:
 
 git clone https://github.com/tarinam2789/NoteApp.git
+
 Then open the project in Xcode and run the app on your device or simulator.
 
 ### App Brainstorming:
