@@ -4,10 +4,10 @@
 Welcome to the Note App! This app allows you to write, edit, save, and delete your notes as you please. Whether you need to jot down quick thoughts, create to-do lists, or store important information, this app offers a simple and efficient way to manage your notes.
 
 ##### Features:
-Create Notes: Write down anything you want. The app allows you to add as many notes as you need.
-Edit Notes: Need to make changes? You can easily edit any of your existing notes.
-Save Notes: Your notes are saved automatically, so you don't need to worry about losing them.
-Delete Notes: You can delete any note at any time.
+* Create Notes: Write down anything you want. The app allows you to add as many notes as you need.
+* Edit Notes: Need to make changes? You can easily edit any of your existing notes.
+* Save Notes: Your notes are saved automatically, so you don't need to worry about losing them.
+* Delete Notes: You can delete any note at any time.
 
 ### Demo:
 
